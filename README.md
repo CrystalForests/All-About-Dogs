@@ -3,6 +3,7 @@
     <head>
         <meta charset="utf-8">
         <title>All About Dogs</title>
+        <link rel="shortcut icon" type= "image/png" href ="_img/favicon.png_">
     </head>
     <style>
         p{
